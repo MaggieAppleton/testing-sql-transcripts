@@ -1,0 +1,32 @@
+<svg width="308" height="264" viewBox="0 0 308 264" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text fill="#3891E0" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="18" font-weight="500" letter-spacing="1px"><tspan x="161" y="39.732">STRUCTURED&#10;</tspan><tspan x="161" y="59.732">QUERY&#10;</tspan><tspan x="161" y="79.732">LANGUAGE</tspan></text>
+<text fill="#42425B" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="21.6" font-weight="bold" letter-spacing="1px"><tspan x="161" y="152.902">RELATIONAL </tspan><tspan x="161" y="176.902">DATABASES</tspan></text>
+<text fill="#6B6B83" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16" letter-spacing="0px"><tspan x="161" y="200.888">Store data in tables </tspan><tspan x="161" y="220.888">organised into rows </tspan><tspan x="161" y="240.888">and columns</tspan></text>
+<rect opacity="0.1" x="51" y="136" width="38" height="119" rx="2" fill="#44AEEE"/>
+<rect opacity="0.1" x="93" y="136" width="38" height="119" rx="2" fill="#44AEEE"/>
+<rect x="0.75" y="127.75" width="138.5" height="135.5" rx="4.25" stroke="#3891E0" stroke-width="0.5"/>
+<g style="mix-blend-mode:multiply" opacity="0.6">
+<rect x="9" y="136" width="122" height="37" rx="4" fill="#69BEF1"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.1">
+<rect x="9" y="177" width="122" height="37" rx="2" fill="#3593E5"/>
+</g>
+<g style="mix-blend-mode:multiply" opacity="0.1">
+<rect x="9" y="218" width="122" height="37" rx="2" fill="#3593E5"/>
+</g>
+<circle cx="144.182" cy="54.1818" r="4.18182" transform="rotate(-180 144.182 54.1818)" fill="#3891E0"/>
+<path d="M115 54.0001H140" stroke="#3891E0" stroke-width="1.39394"/>
+<ellipse cx="71.5" cy="52.5" rx="53.5" ry="52.5" fill="#3891E0"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="35.1" font-weight="bold" letter-spacing="0px"><tspan x="40" y="62.5914">SQL</tspan></text>
+<path d="M73.6383 119.126C72.5038 121.222 69.4962 121.222 68.3617 119.126L60.4064 104.428C59.3244 102.429 60.7718 100 63.0447 100L78.9553 100C81.2282 100 82.6756 102.429 81.5936 104.428L73.6383 119.126Z" fill="#3891E0"/>
+<g style="mix-blend-mode:multiply" opacity="0.6">
+<rect x="9" y="136" width="38" height="119" rx="2" fill="#44AEEE"/>
+</g>
+<circle cx="28" cy="154" r="10" fill="white"/>
+<circle cx="70" cy="154" r="10" fill="white"/>
+<circle cx="28" cy="195" r="10" fill="white"/>
+<circle cx="112" cy="154" r="10" fill="white"/>
+<circle cx="70" cy="195" r="10" fill="white"/>
+<circle cx="112" cy="236" r="10" fill="white"/>
+<circle cx="70" cy="236" r="10" fill="white"/>
+</svg>
