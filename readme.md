@@ -1,5 +1,3 @@
-SQL Transcript Previews
+#SQL Transcript Digrams
 
-Build in MDX - preview in parcel
-
-Run `parcel ${mdx-file-name.mdx}`
+Built in MDX
