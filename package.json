@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@mdx-js/parcel-plugin-mdx": "^1.0.10",
+    "@mdx-js/react": "^1.0.0-rc.5",
+    "parcel": "^1.12.3",
+    "react": "^16.8.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
