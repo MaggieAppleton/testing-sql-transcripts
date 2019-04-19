@@ -1,7 +1,6 @@
 <link href="style.css" rel="stylesheet"></link>
 
-import Link from './Link'
-
+import Link from './Link.js'
 
 SQL stands for Structured Query Language. It's a language we use to communicate with relational databases. Relational database is the idea of storing data in tables that contain rows and columns.
 
@@ -21,8 +20,7 @@ Some of the takeaways I want you to have after going through this course is the 
 
 We'll be using `postgres` throughout this course as the database we'll run our SQL queries against. 
 
-
-<Link url="http://google.com" urlname="Read the PostgreSQL Docs" />
+![](SQL-Link.svg)
 
 
 You'll find as you're working on the databases, like the ones I mentioned, don't exactly have the same types, built-in functions, errors, and other miscellaneous items. Everything that works within this course might not be 100 percent in other relational databases, but it will get you really close.
@@ -31,7 +29,7 @@ Core commands like `update`, `select`, `delete`, and `create` are pretty univers
 
 If you're on a Mac it can be easily installed through the package manager Homebrew. 
 
-[Install Homebrew for Mac](https://brew.sh/)
+<Link url='https://brew.sh/' urlname='Install Homebrew for Mac' />
 
 Once it's in there, all you need to do is go to your terminal and run `brew install postgres`. 
 
@@ -42,7 +40,7 @@ $ brew install postgress
 
 If you're on Windows download the interactive installer from the Postgres docs.
 
-[Windows Postgres installer](https://www.postgresql.org/download/windows/)
+<Link url='https://www.postgresql.org/download/windows/' urlname='Windows Postgres installer' />
 
 This installer is pretty straightforward and will get you up and running quickly. You'll know that everything was installed correctly when you type `psql postgres` in your terminal and you connect to your local database.
 
@@ -53,3 +51,5 @@ Type "help" for help
 
 $ postgres=#
 ```
+
+![](BasicCommands.svg)

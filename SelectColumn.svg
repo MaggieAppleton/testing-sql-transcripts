@@ -1,0 +1,18 @@
+<svg width="559" height="111" viewBox="0 0 559 111" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2381" font-weight="500" letter-spacing="0px"><tspan x="440.473" y="97.9436">TableName</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2381" font-weight="500" letter-spacing="0px"><tspan x="143.96" y="59.1251">select</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2381" font-weight="500" letter-spacing="0px"><tspan x="446.592" y="64.3167">,</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2381" font-weight="500" letter-spacing="0px"><tspan x="384.89" y="97.9436">from</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2381" font-weight="500" letter-spacing="0px"><tspan x="546.411" y="97.8256">;</tspan></text>
+<rect x="-0.265476" y="0.265476" width="217.749" height="36.0458" rx="2.92024" transform="matrix(-1 0 0 1 440.749 33.5449)" stroke="#46BCFF" stroke-width="0.530952"/>
+<rect x="-0.265476" y="0.265476" width="230.728" height="34.8659" rx="2.92024" transform="matrix(-1 0 0 1 374.675 74.8413)" stroke="#46BCFF" stroke-width="0.530952"/>
+<text fill="#1DB9FC" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2381" font-weight="500" letter-spacing="0px"><tspan x="234.244" y="59.0071">first_column_name</tspan></text>
+<text fill="#1DB9FC" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2381" font-weight="500" letter-spacing="0px"><tspan x="155.665" y="99.0054">second_column_name</tspan></text>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16.5185" letter-spacing="1px"><tspan x="143.947" y="16.9108">GET SPECIFIC COLUMN DATA</tspan></text>
+<rect x="0.589947" y="2.27781" width="97.9312" height="97.9312" rx="2.94974" stroke="#D1D5DF" stroke-width="1.17989"/>
+<rect x="9.43915" y="11.127" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<rect x="37.7566" y="11.127" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<rect opacity="0.3" x="66.0741" y="11.127" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<circle cx="127.429" cy="54.7831" r="3.53968" transform="rotate(-180 127.429 54.7831)" fill="#3CBDF4"/>
+<path d="M60.1746 54.7831L123.889 54.7831" stroke="#3CBDF4" stroke-width="1.17989"/>
+</svg>

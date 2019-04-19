@@ -1,3 +1,5 @@
+<link href="style.css" rel="stylesheet"></link>
+
 As you can imagine, when a table is created, it contains no data from the start. The first step in making your database useful is by adding data. We'll do this by using the `insert` command.
 
 We'll say, `insert into Users (create_date, user_handle, last_name, first_name) values ('2018-06-06', 'a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', 'clark', 'tyler');`. `Users` is the name of the table we're inserting data into. This first set of parentheses shows the columns that the data will match up with.
@@ -7,6 +9,8 @@ $ postgres=# insert into Users (create_date, user_handle, last_name, first_name)
 INSERT 0 1
 $ postgres #
 ```
+
+![](InsertData.svg)
 
 One thing to take notice of is the order in which we define the columns. The data listed below in the second set of parentheses will insert according to the order these columns are defined in.
 

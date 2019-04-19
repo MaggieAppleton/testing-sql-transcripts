@@ -69,3 +69,23 @@ hr {
   margin: 60px auto;
   display: block;
 }
+
+.fancylink {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.fancylink a {
+  padding: 20px;
+  color: #618bff;
+  text-shadow: none;
+  -webkit-transition: color 0.8s;
+  -moz-transition: color 0.8s;
+  transition: color 0.8s;
+  text-decoration: none;
+}
+
+.fancylink a:hover,
+.fancylink a:focus {
+  color: #1841ca;
+}

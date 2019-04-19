@@ -1,0 +1,14 @@
+<svg width="423" height="100" viewBox="0 0 423 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2574" font-weight="500" letter-spacing="0px"><tspan x="143.97" y="54.624">select   from</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2574" font-weight="500" letter-spacing="0px"><tspan x="225.784" y="57.8124">*</tspan></text>
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2574" font-weight="500" letter-spacing="0px"><tspan x="303.383" y="54.624">TableName</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2574" font-weight="500" letter-spacing="0px"><tspan x="410.713" y="54.624">;</tspan></text>
+<rect x="-0.531403" y="0.531403" width="25.5073" height="25.5073" rx="2.65701" transform="matrix(-1 0 0 1 243.851 34.2169)" stroke="#3891E0" stroke-width="1.06281"/>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16.5185" letter-spacing="1px"><tspan x="143.947" y="16.4029">GET ALL COLUMN DATA</tspan></text>
+<rect x="0.589947" y="0.589947" width="97.9312" height="97.9312" rx="2.94974" stroke="#3891E0" stroke-width="1.17989"/>
+<rect x="9.43915" y="9.43921" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<rect x="37.7566" y="9.43921" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<rect x="66.0741" y="9.43921" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<circle cx="127.429" cy="49.5555" r="3.53968" transform="rotate(-180 127.429 49.5555)" fill="#3891E0"/>
+<path d="M99.1111 49.5555L123.889 49.5555" stroke="#3891E0" stroke-width="1.17989"/>
+</svg>

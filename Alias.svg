@@ -1,0 +1,21 @@
+<svg width="646" height="141" viewBox="0 0 646 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.949734" y="1.18248" width="97.9312" height="97.9312" rx="2.94974" stroke="#D1D5DF" stroke-width="1.17989"/>
+<rect opacity="0.3" x="9.79893" y="10.0317" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<rect opacity="0.3" x="38.1164" y="10.0317" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<rect x="66.4339" y="10.0317" width="23.5979" height="80.2328" rx="2.35979" fill="#77CEFF"/>
+<circle cx="125.429" cy="58.4073" r="3.53968" transform="rotate(-180 125.429 58.4073)" fill="#3CBDF4"/>
+<path d="M90.0317 58.4073L121.889 58.4073" stroke="#3CBDF4" stroke-width="1.17989"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2457" font-weight="500" letter-spacing="0px"><tspan x="143.139" y="61.8143">select</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2457" font-weight="500" letter-spacing="0px"><tspan x="450.131" y="62.8766">as</tspan></text>
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2457" font-weight="500" letter-spacing="0px"><tspan x="331.17" y="105.368">TableName</tspan></text>
+<rect width="122.163" height="39.3045" rx="3.18685" transform="matrix(-1 0 0 1 266.352 79.6606)" fill="#3CBDF4"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2457" font-weight="500" letter-spacing="0px"><tspan x="274.859" y="105.368">from</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2457" font-weight="500" letter-spacing="0px"><tspan x="437.382" y="106.43">;</tspan></text>
+<text fill="#1DB9FC" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2457" font-weight="500" letter-spacing="0px"><tspan x="233.574" y="62.8766">third_column_name</tspan></text>
+<rect width="220.511" height="36.9277" rx="3.16523" transform="matrix(-1 0 0 1 442.691 37.2955)" stroke="#3CBDF4" stroke-width="1.05508" stroke-linecap="round"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2457" letter-spacing="0px"><tspan x="158.016" y="105.368">new_name</tspan></text>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16.5185" letter-spacing="1px"><tspan x="143.127" y="16.9954">ALIAS COLUMNS</tspan></text>
+<text fill="#3CBDF4" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="12.9788" font-weight="500" letter-spacing="1px"><tspan x="145.487" y="135.825">ALIAS COLUMN NAME</tspan></text>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16.5185" font-style="italic" letter-spacing="1px"><tspan x="296.513" y="16.9955">RETURNS DATA AND RENAMES THE COLUMN</tspan></text>
+<circle cx="283.534" cy="11.2116" r="2.35979" fill="#4C5052"/>
+</svg>

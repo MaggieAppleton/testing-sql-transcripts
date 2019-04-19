@@ -1,0 +1,28 @@
+<svg width="602" height="302" viewBox="0 0 602 302" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="102.821" y="133.374" width="168.039" height="168.039" rx="4.11284" stroke="#D1D5DF" stroke-width="1.1751"/>
+<rect x="115.16" y="145.712" width="44.6537" height="143.362" rx="2.35019" fill="#55C2FF"/>
+<rect opacity="0.5" x="164.514" y="145.712" width="44.6537" height="143.362" rx="2.35019" fill="#55C2FF"/>
+<rect opacity="0.2" x="213.868" y="145.712" width="44.6537" height="143.362" rx="2.35019" fill="#55C2FF"/>
+<rect x="122.798" y="155.7" width="29.3774" height="28.2023" rx="1.76265" fill="white" stroke="white" stroke-width="1.1751"/>
+<rect x="172.152" y="155.7" width="29.3774" height="28.2023" rx="1.76265" fill="white" stroke="white" stroke-width="1.1751"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="1.09113" y="52.1781">(</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="77.585" y="91.4876">(</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="1.37738" y="20.3057">insert into</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="0.171757" y="91.4876">values</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="218.887" y="52.1781">,</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.2483" font-weight="500" letter-spacing="0px"><tspan x="248.608" y="91.5803">,</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="453.681" y="52.1781">)</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="437.773" y="91.4876">);</tspan></text>
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="139.434" y="20.3057">TableName</tspan></text>
+<text fill="#1DB9FC" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="20.6725" y="52.1781">first_column_name</tspan></text>
+<rect x="93.7583" y="66.1353" width="151.394" height="35.591" rx="2.92165" stroke="#46BCFF" stroke-width="0.531208"/>
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-style="italic" letter-spacing="0px"><tspan x="105.494" y="91.4876">first_value</tspan></text>
+<rect x="264.807" y="66.1353" width="163.081" height="35.591" rx="2.92165" stroke="#46BCFF" stroke-width="0.531208"/>
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-style="italic" letter-spacing="0px"><tspan x="276.572" y="91.4876">second_value</tspan></text>
+<text fill="#1DB9FC" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="21.1518" font-weight="500" letter-spacing="0px"><tspan x="237.434" y="52.1781">second_column_name</tspan></text>
+<path d="M138.661 112.809L138.662 155.113" stroke="#3891E0" stroke-width="1.1751"/>
+<path d="M202.117 169.214H313.751C316.347 169.214 318.451 167.11 318.451 164.514V112.809" stroke="#3891E0" stroke-width="1.1751"/>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16.4514" letter-spacing="1px"><tspan x="340.778" y="257.231">THE ORDER OF THE DATA YOU </tspan><tspan x="340.778" y="277.553">ENTER AFTER </tspan><tspan x="512.881" y="277.553"> NEEDS TO </tspan><tspan x="340.778" y="297.53">MATCH THE COLUMN ORDER</tspan></text>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16.4514" font-weight="bold" letter-spacing="1px"><tspan x="448.98" y="277.553">VALUES</tspan></text>
+<rect x="316.101" y="243.245" width="4.70039" height="58.7549" fill="#3891E0"/>
+</svg>

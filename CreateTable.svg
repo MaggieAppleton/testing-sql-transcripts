@@ -1,0 +1,35 @@
+<svg width="521" height="345" viewBox="0 0 521 345" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="298.613" y="0.3" width="110.344" height="30.3188" rx="2.42813" stroke="#3891E0" stroke-width="0.6"/>
+<rect x="195.853" y="34.8563" width="189.459" height="30.3188" rx="2.42813" stroke="#55C2FF" stroke-width="0.6"/>
+<rect width="62.7469" height="30.9188" rx="2.72813" transform="matrix(-1 0 0 1 452.906 34.5563)" fill="#3891E0"/>
+<rect width="62.7469" height="30.9188" rx="2.72813" transform="matrix(-1 0 0 1 462 68.2031)" fill="#3891E0"/>
+<rect x="195.853" y="69.4125" width="199.462" height="30.3188" rx="2.42813" stroke="#55C2FF" stroke-width="0.6"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-weight="500" letter-spacing="0px"><tspan x="171.64" y="21.8269">create table</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-style="italic" font-weight="500" letter-spacing="0px"><tspan x="401.285" y="55.3832">type</tspan></text>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-style="italic" font-weight="500" letter-spacing="0px"><tspan x="410.379" y="89.9394">type</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-weight="500" letter-spacing="0px"><tspan x="417.494" y="20.9175">(</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-weight="500" letter-spacing="0px"><tspan x="172.925" y="117.311">);</tspan></text>
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-weight="500" letter-spacing="0px"><tspan x="309.705" y="21.8269">TableName</tspan></text>
+<text fill="#1DB9FC" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-weight="500" letter-spacing="0px"><tspan x="206.463" y="56.3832">first_column_name</tspan></text>
+<text fill="#1DB9FC" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" font-weight="500" letter-spacing="0px"><tspan x="206.516" y="90.9394">second_column_name</tspan></text>
+<rect x="0.5" y="4.5" width="143" height="143" rx="3.5" stroke="#D1D5DF"/>
+<rect x="11" y="15" width="38" height="122" rx="2" fill="#55C2FF"/>
+<rect opacity="0.5" x="53" y="15" width="38" height="122" rx="2" fill="#55C2FF"/>
+<rect opacity="0.2" x="95" y="15" width="38" height="122" rx="2" fill="#55C2FF"/>
+<path d="M196 50L49 50" stroke="#46BCFF"/>
+<path d="M196 87L89 87" stroke="#46BCFF"/>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="14" letter-spacing="1px"><tspan x="22" y="195.902">WRITE TABLE NAMES IN</tspan></text>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16" font-weight="500" letter-spacing="1px"><tspan x="186" y="195.984">TableCase</tspan></text>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="14" letter-spacing="1px"><tspan x="22" y="219.902">WRITE COLUMN NAMES IN</tspan></text>
+<text fill="#4C5052" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="16" font-weight="500" letter-spacing="1px"><tspan x="203" y="219.984">snake_case</tspan></text>
+<rect x="1" y="182" width="4" height="42" fill="#3891E0"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" letter-spacing="0px"><tspan x="361.362" y="227.28">integer</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" letter-spacing="0px"><tspan x="361.362" y="273.28">decimal</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" letter-spacing="0px"><tspan x="360.207" y="342.28">date</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" letter-spacing="0px"><tspan x="360.207" y="296.28">time</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" letter-spacing="0px"><tspan x="360.207" y="250.28">text</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Operator Mono" font-size="18" letter-spacing="0px"><tspan x="361.362" y="319.28">boolean</tspan></text>
+<text fill="#1E81DA" xml:space="preserve" style="white-space: pre" font-family="FreightSans Pro" font-size="14" font-weight="bold" letter-spacing="1px"><tspan x="359" y="193.196">COMMON DATA TYPES</tspan></text>
+<rect x="338" y="182" width="4" height="163" fill="#3891E0"/>
+<path d="M431 95L431 164" stroke="#3891E0" stroke-linecap="round"/>
+</svg>
