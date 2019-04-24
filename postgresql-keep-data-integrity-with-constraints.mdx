@@ -1,3 +1,7 @@
+<!-- CONSTRAINTS -->
+
+<link href="style.css" rel="stylesheet"></link>
+
 One of relational databases best strengths is the ability to flatten data across many tables. They can be independent from each other, or we can connect them together. Adding a `constraint` to tables is how we can connect them together, and make sure our data keeps its integrity, and as we scale it does so efficiently.
 
 Now let's create a `Users` table, `create table Users (` We'll give it `create_date date`, a `user_handle uuid`, `last_name text`, `first_name text`, and then we're going to do `constraint PK_users primary key (user_handle)`.

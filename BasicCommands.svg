@@ -1,40 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="750" height="345" fill="none" viewBox="0 0 750 345">
+<svg xmlns="http://www.w3.org/2000/svg" width="699" height="322" fill="none" viewBox="0 0 699 322">
     <rect width="337.333" height="179.818" x="155.424" y="78.7575" fill="white" stroke="#D1D5DF" stroke-width="1.39394" rx="4.87879"/>
     <rect width="57.1515" height="57.1515" fill="#2F2F46" rx="4.18182"/>
     <rect width="200.727" height="47.3939" x="260.667" y="128.242" fill="#3891E0" rx="5.57576"/>
     <rect width="33.4545" height="50.1818" x="-0.69697" y="0.69697" stroke="#3891E0" stroke-width="1.39394" rx="3.48485" transform="matrix(-1 0 0 1 436.303 181.212)"/>
     <path fill="#418DD1" fill-rule="evenodd" d="M542.242 193.758V196.546C542.242 198.855 544.115 200.727 546.424 200.727H637.03C639.34 200.727 641.212 198.855 641.212 196.546V193.758C641.212 196.067 639.34 197.939 637.03 197.939H546.424C544.115 197.939 542.242 196.067 542.242 193.758Z" clip-rule="evenodd"/>
     <rect width="98.2727" height="45.303" x="-0.348485" y="0.348485" stroke="#3891E0" stroke-width="0.69697" rx="3.83333" transform="matrix(-1 0 0 1 640.515 151.939)"/>
-    <rect width="211.879" height="51.5758" x="188.182" y="181.212" fill="#3891E0" opacity="0.2" rx="5.57576"/>
-    <text fill="black" font-family="Operator Mono" font-size="27.8788" font-weight="500" letter-spacing="0px" style="white-space:pre" xml:space="preserve">
-        <tspan x="186.799" y="160.582">psql</tspan>
+    <rect width="211" height="52" x="188" y="181" fill="#3891E0" opacity="0.2" rx="5.57576"/>
+    <text fill="black" font-family="Space Mono" font-size="24.88" font-weight="bold" letter-spacing="0px" style="white-space:pre" xml:space="preserve">
+        <tspan x="191.532" y="161.866">psql</tspan>
     </text>
-    <text fill="white" font-family="Operator Mono" font-size="30.6667" font-weight="bold" letter-spacing="0px" style="white-space:pre" xml:space="preserve">
-        <tspan x="13.109" y="36.4097">$_</tspan>
+    <path fill="white" d="M21.4196 38.239L22.0023 34.7737C26.4489 34.283 28.1356 32.535 28.1356 30.4497C28.1356 25.9417 19.6716 24.255 19.6716 22.415C19.6716 21.403 21.9103 21.0657 27.3996 22.6297L27.9516 18.367C26.8169 18.2137 25.8049 18.1217 24.8543 18.0603L25.5289 14.7177L21.6956 14.687L21.1129 18.1217C16.6356 18.551 14.9489 20.4523 14.9489 22.5683C14.9489 26.9537 23.4129 28.4563 23.4129 30.3883C23.4129 31.4923 21.0823 31.7683 15.2249 30.3883L14.4276 34.651C15.8383 34.8043 17.1263 34.8963 18.2916 34.8963L17.5863 38.2083L21.4196 38.239Z"/>
+    <path fill="white" d="M45.9163 37.503H30.8896V41.0297H45.9163V37.503Z"/>
+    <text fill="black" font-family="Space Mono" font-size="24.88" font-weight="bold" letter-spacing="0px" style="white-space:pre" xml:space="preserve">
+        <tspan x="412.656" y="212.653">;</tspan>
     </text>
-    <text fill="black" font-family="Operator Mono" font-size="27.8788" font-weight="500" letter-spacing="0px" style="white-space:pre" xml:space="preserve">
-        <tspan x="412.609" y="213.551">;</tspan>
+    <text fill="white" font-family="Space Mono" font-size="24.88" font-weight="bold" letter-spacing="0px" style="white-space:pre" xml:space="preserve">
+        <tspan x="279.712" y="159.866">my_database</tspan>
     </text>
-    <text fill="white" font-family="Operator Mono" font-size="27.8788" font-weight="300" letter-spacing="0px" style="white-space:pre" xml:space="preserve">
-        <tspan x="277.424" y="159.188">my_database</tspan>
+    <text fill="#4C5052" font-family="sans-serif" font-size="16.52" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
+        <tspan x="79.4546" y="18.7594">ACCESS POSTGRES THROUGH </tspan><tspan x="79.4546" y="40.7594">THE COMMAND LINE</tspan>
     </text>
-    <text fill="#4C5052" font-family="FreightSans Pro" font-size="19.5152" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
-        <tspan x="79.4546" y="22.1665">ACCESS POSTGRES THROUGH </tspan><tspan x="79.4546" y="45.8635">THE COMMAND LINE</tspan>
+    <text fill="#4C5052" font-family="sans-serif" font-size="16.52" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
+        <tspan x="42" y="154.971">OPEN </tspan><tspan x="42" y="176.971">YOUR </tspan><tspan x="42" y="198.971">DATABASE</tspan>
     </text>
-    <text fill="#4C5052" font-family="FreightSans Pro" font-size="19.5152" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
-        <tspan x="41.8181" y="158.772">OPEN </tspan><tspan x="41.8181" y="182.469">YOUR </tspan><tspan x="41.8181" y="206.166">DATABASE</tspan>
+    <text fill="#4C5052" font-family="sans-serif" font-size="16.52" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
+        <tspan x="341.515" y="314.274">END A COMMAND</tspan>
     </text>
-    <text fill="#4C5052" font-family="FreightSans Pro" font-size="19.5152" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
-        <tspan x="341.515" y="317.682">END A COMMAND</tspan>
+    <text fill="#4C5052" font-family="sans-serif" font-size="16.52" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
+        <tspan x="543.636" y="226.456">MOVE TO THE </tspan><tspan x="543.636" y="248.456">NEXT LINE</tspan>
     </text>
-    <text fill="#4C5052" font-family="FreightSans Pro" font-size="19.5152" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
-        <tspan x="543.636" y="229.863">MOVE TO THE </tspan><tspan x="543.636" y="253.56">NEXT LINE</tspan>
+    <text fill="#418DD1" font-family="sans-serif" font-size="12.33" letter-spacing="0.2px" style="white-space:pre" xml:space="preserve">
+        <tspan x="290.758" y="120.072">NAME OF YOUR DATABASE</tspan>
     </text>
-    <text fill="#418DD1" font-family="FreightSans Pro" font-size="15.3333" letter-spacing="0.2px" style="white-space:pre" xml:space="preserve">
-        <tspan x="285.758" y="118.377">NAME OF YOUR DATABASE</tspan>
-    </text>
-    <text fill="#3891E0" font-family="FreightSans Pro" font-size="22.303" font-weight="bold" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
-        <tspan x="554.788" y="182.918">ENTER</tspan>
+    <text fill="#3891E0" font-family="sans-serif" font-size="20" font-weight="800" letter-spacing="1px" style="white-space:pre" xml:space="preserve">
+        <tspan x="555.788" y="182.918">ENTER</tspan>
     </text>
     <circle cx="118.485" cy="153.333" r="4.18182" fill="#3891E0"/>
     <path stroke="#418DD1" stroke-width="1.39394" d="M174.242 153.333H121.273"/>
