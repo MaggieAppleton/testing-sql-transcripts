@@ -23,6 +23,7 @@ $ postgres=# insert into Users values ('2018-06-06', 'a0eebc99-9c0b-4ef8-bb6d-6b
 INSERT 0 1
 $ postgres #
 ```
+![](InsertData_noCols.svg)
 
 As we can see here, we did not provide the corresponding column names or data it needs to match up with. This will insert into the table in the order the columns within the table were created by. It is generally accepted that listing your columns out is best practice because it's more explicit.
 
@@ -34,6 +35,8 @@ ERROR invalid input syntax for type date: "jones"
 LINE 1: insert into Users values ('jones', 'debbie');
 $ postgres #
 ```
+
+![](Insert_TypeError.svg)
 
 If we were to fix this problem, changing `jones` to a `date`, we'd still get an error because now `debbie`, the string, does not match up with a `uuid` type.
 

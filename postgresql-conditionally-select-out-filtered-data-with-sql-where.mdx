@@ -14,7 +14,10 @@ $ postgres=# select * from Users;
 $ postgres=#
 ```
 
-If we want to filter the results down to specific rows, we use the `where` clause. Within our `select` statement, let's say select out all the columns where the `where last_name = 'clark';`.
+
+
+If we want to filter the results down to specific rows, we use the `where` clause.
+Within our `select` statement, let's say select out all the columns where the `where last_name = 'clark';`.
 
 ```sql 
 $ postgres=# select * from Users where last_name = 'clark'; 
@@ -24,6 +27,8 @@ $ postgres=# select * from Users where last_name = 'clark';
 (1 row )
 $ postgres=#
 ```
+
+![](WhereKeyword.svg)
 
 You can think of the select statement as a for loop. We're looping over each row within the table and pulling it out. This `where` clause is how we can filter down what actually gets returned. Only having one condition within our `where` clause did the job. However, we could get more specific and add more cases. We can add on to our `where` clause an `and first_name = 'tyler'; ` to get the same row back. 
 
@@ -46,6 +51,8 @@ $ postgres=# select * from Users where last_name = 'clark' or first_name = 'tyle
 (1 row )
 $ postgres=#
 ```
+
+![](Operators.svg)
 
 When working with dates and numbers, we can use other operators such as the `>`, say, give us the rows `where create_date > '2018-05-05';`, which is going to be both rows. 
 
