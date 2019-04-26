@@ -1,3 +1,3 @@
-#SQL Transcript Digrams
+# SQL Transcript Digrams
 
 Built in MDX
