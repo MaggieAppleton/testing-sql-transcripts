@@ -55,6 +55,8 @@ INSERT 0 1
 $ postgres #
 ```
 
+![](Functions.svg)
+
 The `now` function returns a date type of today's date. Finally, we have the ability to insert more than one row of data at a time. All we need to do is comma separate new sets of data. Here, we're inserting three new rows of data into our users table. 
 
 ```sql
@@ -62,6 +64,8 @@ $ postgres=# insert into Users (create_date) values (now()), (now()), (now());
 INSERT 0 3
 $ postgres #
 ```
+
+![](MultipleImportData.svg)
 
 Because we're only specifying `create_date` and passing the now to each set of data, it will provide null values for `user_handle`, `first_name`, and `last_name`.
 
